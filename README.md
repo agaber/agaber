@@ -3,7 +3,7 @@
 My name is Abe and I'm an old man who likes to build things with technology. It looks like you've stumbled on to my Github profile. I mostly use this for dumping random code and sometimes for trying out new stuff.
 
 * 🌍  I'm based in New York
-* 🧠  I'm learning Spring Boot, Docker, Kubernetes, Cassandra, Kafta
+* 🧠  I'm learning Spring Boot, Docker, Kubernetes, Cassandra, Kafka
 * 🤝  I'm open to collaborating on interesting and/or fun projects 🙃
 * ⚡️  I used [profileme.dev](https://www.profileme.dev/create-profile) to create this intro. Check it out!
 
