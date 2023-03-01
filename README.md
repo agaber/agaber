@@ -5,6 +5,7 @@ I'm an old man who likes to build things with technology.
 
 * 🌍  I'm based in New York
 * 🧠  I'm learning Spring Boot, Docker, Kubernetes, Angular
+* 🚀  I'm currently working on [an instant runoff voting web app](http://vote.agaber.dev).
 * 🤝  I'm open to collaborating on interesting and/or fun projects 🙃
 * ⚡  I used [profileme.dev](https://www.profileme.dev/create-profile) to create this intro. Check it out!
 
