@@ -1,10 +1,10 @@
 Hi 👋 My name is Abe
 ====================
 
-I'm an old man who likes to build things with technology.
+I'm an ~~old man~~ experienced software developer who likes to be creative and build things with technology.
 
-* 🌍  I'm based in New York
-* 🧠  I'm learning Spring Boot, Docker, Kubernetes, Angular
+* 🌍  I'm based in New York.
+* 🧠  I'm learning Spring Boot, Docker, Kubernetes, Angular and Apache Spark.
 * 🚀  I'm currently working on [an instant runoff voting web app](http://vote.agaber.dev).
 * 🤝  I'm open to collaborating on interesting and/or fun projects 🙃
 * ⚡  I used [profileme.dev](https://www.profileme.dev/create-profile) to create this intro. Check it out!
